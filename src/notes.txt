@@ -1,0 +1,2 @@
+# rest API with java:
+https://www.quora.com/How-do-I-develop-Java-web-API
